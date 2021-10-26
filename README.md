@@ -1,2 +1,2 @@
 # Exercicos-realizados-em-python
-Exercicos realizados na matéria Linguagem de Programação - Professor Jailson
+Exercicos realizados na matéria Linguagem de Programação focados em python - Professor Jailson
